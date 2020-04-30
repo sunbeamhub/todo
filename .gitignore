@@ -1,0 +1,9 @@
+.DS_Store
+
+pubspec.lock
+
+todo.iml
+
+/android
+
+/ios
